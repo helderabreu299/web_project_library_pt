@@ -346,7 +346,7 @@
 .person_name_mitchell {
   /* Use os valores corretos das propriedades top/right/bottom/left para posicionar o elemento */
   left: 142px;
-  botton: 82px;
+  bottom: 82px;
   top: 400px;
 }
 
