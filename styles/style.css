@@ -417,8 +417,6 @@
   
 
 
- 
-
   /* Adicione estilos */
 }
 .step__title {
@@ -442,7 +440,6 @@
   box-sizing: border-box;
   background-color: black;
   color: white;
-
 }
 
   .footer__columns {
@@ -455,8 +452,7 @@
 .footer__column_content_hours {
   font-size: 16px;
   height: 20px;
-   margin-left: auto;
- 
+   margin-left: auto; 
 }
 
 .footer__column_content_social {
@@ -509,6 +505,4 @@
   margin-top: 100px;
   font-size: 16px;
   height: 20px;
-  
-
 }
